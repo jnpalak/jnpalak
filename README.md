@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnpalak" alt="jnpalak" /></a> </p>
 
-- 🔭 I’m currently working on **AI- Powered Roommate Matching**
-
 - 🌱 I’m currently learning **Spring Boot, JDBC,Microservices**
 
-- 👯 I’m looking to collaborate on **Java-based Web Projects, Open Source, and DSA Challenges**
-
-- 🤝 I’m looking for help with **Optimizing Backend Systems & Advanced Java Concepts**
-
-- 💬 Ask me about **Java, DSA, Backend Development, Servlets/JSP, and MySQL**
+- 💬 Ask me about **Java, DSA, Servlets/JSP, and MySQL**
 
 - 📫 How to reach me **palakjain88277@gmail.com**
 
